@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-import style
+import additional_files.style as style
 import os
 import imghdr
 from io import BytesIO

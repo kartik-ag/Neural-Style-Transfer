@@ -13,7 +13,7 @@ from torchvision import transforms
 import torch.onnx
 
 import additional_files.utils as utils
-from transformer_net import TransformerNet
+from additional_files.transformer_net import TransformerNet
 from additional_files.vgg import Vgg16
 import streamlit as st
 
