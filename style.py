@@ -25,7 +25,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # loading a model
 
 
-@st.cache
+@st.cache_resource
 def load_model(model_path):
 
     with torch.no_grad():
@@ -44,7 +44,7 @@ def load_model(model_path):
 # with load_model function
 
 
-@st.cache
+# @st.cache_resource
 def stylize(style_model, content_image, output_image):
 
     # if the content image is a path then
