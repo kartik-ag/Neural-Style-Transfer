@@ -12,9 +12,9 @@ from torchvision import datasets
 from torchvision import transforms
 import torch.onnx
 
-import utils
+import additional_files.utils as utils
 from transformer_net import TransformerNet
-from vgg import Vgg16
+from additional_files.vgg import Vgg16
 import streamlit as st
 
 # we will use the conecpt of caching here that is once a user has used a particular model instead of loading

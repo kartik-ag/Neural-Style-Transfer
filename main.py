@@ -7,7 +7,7 @@ from io import BytesIO
 import base64
 
 # style image paths:
-root_style = "./images/style-images"
+root_style = "./images"
 
 
 # download image function
@@ -24,20 +24,6 @@ st.markdown("<h1 style='text-align: center; color: Blue;'>Neural Style Transfer<
 st.markdown("<h3 style='text-align: right; color: Blue;'>by Divy Mohan Rai</h3>",
             unsafe_allow_html=True)
 
-
-main_bg = "./images/pyto.png"
-main_bg_ext = "jpg"
-
-st.markdown(
-    f"""
-    <style>
-    .reportview-container {{
-        background: url(data:image/{main_bg_ext};base64,{base64.b64encode(open(main_bg, "rb").read()).decode()})
-    }}
-    </style>
-    """,
-    unsafe_allow_html=True
-)
 
 
 # creating a side bar for picking the style of image
