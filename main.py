@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image
 import additional_files.style as style
+import additional_files.load as load
 import os
 import imghdr
 from io import BytesIO
@@ -55,7 +56,7 @@ extensions = [".png", ".jpeg", ".jpg"]
 if uploaded_file is not None and any(extension in uploaded_file.name for extension in extensions):
 
     name_file = uploaded_file.name.split(".")
-    root_model = "./saved_models"
+    root_model = "./models"
     model_path = os.path.join(root_model, style_name+".pth")
 
     img = img.convert('RGB')
@@ -68,7 +69,7 @@ if uploaded_file is not None and any(extension in uploaded_file.name for extensi
     stylize_button = st.button("Stylize")
 
     if stylize_button:
-        model = style.load_model(model_path)
+        model = load.load_model(model_path)
         stylized = style.stylize(model, input_image, output_image)
         # displaying the output image
         st.write("### Output Image")
