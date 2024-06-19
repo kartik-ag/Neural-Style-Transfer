@@ -21,8 +21,6 @@ def get_image_download_link(img, file_name, style_name):
 
 st.markdown("<h1 style='text-align: center; color: Blue;'>Neural Style Transfer</h1>",
             unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: right; color: Blue;'>by Divy Mohan Rai</h3>",
-            unsafe_allow_html=True)
 
 
 
