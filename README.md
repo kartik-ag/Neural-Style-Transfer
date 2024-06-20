@@ -8,27 +8,19 @@
 <p align="center">Currently the Repository consists of Models trained on the following style Images</p>
 
 <br>
-<p>
-  
-![ben_giles](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/230ca764-0bb7-46c5-90db-21f0408c011c)
+<p align="center">
+<img src="https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/images/ben_giles.jpg" width="270px" height="270px">
+<img src="https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/images/ben_giles_2.jpg" width="270px" height="270px">
+<img src="https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/images/candy.jpg" width="270px">
 
-![ben_giles_2](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/50e26e44-1119-4fce-bcf4-4b79ae0702b3)
+<img src="https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/images/mosaic.jpg" width="270px" height="270px">
+<img src="https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/images/rain_princess.jpg" width="270px" height="270px">
+<img src="https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/images/tg.jpg" width="270px" height="270px">
 
-![ben_giles_3](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/b8437736-404a-40e3-a2b3-6e3be0d8f72e)
-
-![candy](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/0b3eab9c-5cc3-4058-a47f-8207b8233549)
-
-![demon_slayer](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/df9f6664-d3c1-498e-85c3-ce7fe45bed8b)
-
-![mosaic](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/17845e92-840d-4d58-b3b9-ef9ac52295a4)
-
-![rain_princess](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/d14691a3-1872-4325-aef9-47b006c710a3)
-
-![tg](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/35a1abcb-43ba-496e-bd94-6fb780b3d669)
-
-![udnie](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/265a3047-5803-46b9-bfbc-aad6ba9d8175)
-
+<img src="https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/images/demon_slayer.jpg" width="400px" height="270px">
+<img src="https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/images/udnie.jpg" width="270px" height="270px">
 </p>
+
 
 
 
