@@ -29,6 +29,31 @@
 
 <h1 align="center">Examples</h1>
 
+<p>
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/test_images/car.jpg" width = "270px" height = "270px">
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/outputs/car_edit.jpg" width = "270px" height = "270px">
+</p>
+
+<p>
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/test_images/img.jpg" width = "270px" height = "270px">
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/outputs/img_edit.jpg" width = "270px" height = "270px">
+</p>
+
+<p>
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/test_images/img1.jpg" width = "270px" height = "270px">
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/outputs/img1_edit.jpg" width = "270px" height = "270px">
+</p>
+
+<p>
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/test_images/prof.jpg" width = "270px" height = "270px">
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/outputs/prof_edit.jpg" width = "270px" height = "270px">
+</p>
+
+<p>
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/test_images/taj.jpg" width = "270px" height = "270px">
+    <img src = "https://github.com/kartik-ag/Neural-Style-Transfer/blob/main/outputs/taj_edit.jpg" width = "270px" height = "270px">
+</p>
+
 <p align="center" >Here are some results along with the style image which was applied</p>
 <br>
 
