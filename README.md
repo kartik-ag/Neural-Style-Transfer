@@ -8,6 +8,8 @@
 <p align="center">Currently the Repository consists of Models trained on the following style Images</p>
 
 <br>
+<p>
+  
 ![ben_giles](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/230ca764-0bb7-46c5-90db-21f0408c011c)
 
 ![ben_giles_2](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/50e26e44-1119-4fce-bcf4-4b79ae0702b3)
@@ -25,6 +27,10 @@
 ![tg](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/35a1abcb-43ba-496e-bd94-6fb780b3d669)
 
 ![udnie](https://github.com/kartik-ag/Neural-Style-Transfer/assets/126899408/265a3047-5803-46b9-bfbc-aad6ba9d8175)
+
+</p>
+
+
 
 
 <br>
